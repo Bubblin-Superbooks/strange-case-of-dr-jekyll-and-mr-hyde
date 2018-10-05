@@ -5,7 +5,8 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+  "name": "Strange Case of Dr. Jekyll and Mr. Hyde",
   "type": "text",
-  "book_id": 488
+  "book_id": 488,
+  "has_page_numbers": true
 }
